@@ -1,0 +1,7 @@
+{
+  "query": "(stroke[Title/Abstract] OR cerebrovascular[Title/Abstract]) AND (randomized controlled trial[Publication Type] OR guideline[Publication Type] OR major clinical study[Title/Abstract]) AND (2014:2025[dp])",
+  "max_results": 30,
+  "title": "Stroke Landmark Trials RSS",
+  "link": "https://Chintal9.github.io/Stroke-Journals-/feed.xml",
+  "description": "Curated feed of landmark, high-impact, and recent stroke trials/guidelines. Generated weekly from PubMed."
+}

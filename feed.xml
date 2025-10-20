@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Stroke Landmark Trials RSS</title>
+    <link>https://Chintal9.github.io/Stroke-Journals-/feed.xml</link>
+    <description>Curated feed of landmark, high-impact, and recent stroke trials/guidelines. Generated weekly from PubMed.</description>
+    <lastBuildDate>Mon, 20 Oct 2025 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>RSS Feed Initialized</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/</link>
+      <description>
+        <b>Journal:</b> <br>
+        <b>Authors:</b> <br>
+        <b>TLDR:</b> This is a starter feed for GitHub Pages.
+        <b>Abstract:</b> The actual articles will be updated automatically.
+      </description>
+      <pubDate>2025</pubDate>
+    </item>
+  </channel>
+</rss>
